@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="headline_example">Breaking: Shreyas Iyer complains of stiff back and groin pain, likely to miss last three Tests</string>
+    <string name="article_image">Image of article</string>
+    <string name="offline_image_description">Internet not available</string>
+    <string name="refresh_button_description">refresh button</string>
+    <string name="back_button_description">back button</string>
+    <string name="search_button_description">search button</string>
+    <string name="offline_text">Please connect to internet to get the latest news.</string>
+</resources>
