@@ -1,4 +1,4 @@
-# News App Demo
+# News App
 This repository holds the source code for a simple news application demonstrating:
 
 ## Key Features:
